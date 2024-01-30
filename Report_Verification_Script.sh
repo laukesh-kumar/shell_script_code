@@ -215,3 +215,4 @@ read -a UDR_IDS
 for UDR_ID in "${UDR_IDS[@]}"; do
   check_udr_status "$UDR_ID"
 done
+hello
