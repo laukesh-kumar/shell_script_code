@@ -1,0 +1,524 @@
+Enter UDR transaction IDs separated by spaces (e.g., 6285 6286 6287):
+UDR 6350: Not OK. The values are not equal. 
+      UDR_RAW_BELIVE_VALID_COUNT: 254743 
+      UDR_FORMATTED_BELIVE_VALID_COUNT: 254743 
+      UDR_RAW_BELIVE_GROSS_SALES_PRICE: 8061.73 
+      UDR_FORMATTED_BELIVE_GROSS_SALES_PRICE: 9484.39 
+      UDR_MAIN_GROSS_SALES_PRICE: 9484.39 
+      IS_NULL_TOTAL_COUNT: 8216
+          
+      Null Country Count: 
+      Null Currency Count: 
+      Null USD Rate Count: 100051	443
+100098	5
+100167	1
+100275	1
+100345	176
+100540	1
+100609	11
+100617	2
+100630	192
+100641	56
+100643	1
+100648	12
+100651	75
+100689	1
+100693	1
+100707	11
+100811	1
+100865	149
+100878	1
+100905	2
+100912	5
+100919	10
+100960	3
+100982	1
+100989	1
+101054	58
+101074	1
+101202	31
+101244	1
+101378	3
+101388	2
+101411	18
+102242	6438
+102415	305
+102680	63
+103518	6
+103872	1
+104104	2
+105119	8
+105427	21
+105846	87
+106171	9
+      Null Gross Sales Price Count: 
+      Null CP Share Percentage Count: 100051	443
+100098	5
+100167	1
+100275	1
+100345	176
+100540	1
+100609	11
+100617	2
+100630	192
+100641	56
+100643	1
+100648	12
+100651	75
+100689	1
+100693	1
+100707	11
+100811	1
+100865	149
+100878	1
+100905	2
+100912	5
+100919	10
+100960	3
+100982	1
+100989	1
+101054	58
+101074	1
+101202	31
+101244	1
+101378	3
+101388	2
+101411	18
+102242	6438
+102415	305
+102680	63
+103518	6
+103872	1
+104104	2
+105119	8
+105427	21
+105846	87
+106171	9
+      Null CP Share Provisional Count: 100051	443
+100098	5
+100167	1
+100275	1
+100345	176
+100540	1
+100609	11
+100617	2
+100630	192
+100641	56
+100643	1
+100648	12
+100651	75
+100689	1
+100693	1
+100707	11
+100811	1
+100865	149
+100878	1
+100905	2
+100912	5
+100919	10
+100960	3
+100982	1
+100989	1
+101054	58
+101074	1
+101202	31
+101244	1
+101378	3
+101388	2
+101411	18
+102242	6438
+102415	305
+102680	63
+103518	6
+103872	1
+104104	2
+105119	8
+105427	21
+105846	87
+106171	9
+UDR 6351: OK
+UDR 6352: OK
+UDR 6353: OK
+UDR 6354: Not OK. The values are not equal. 
+      UDR_RAW_BELIVE_VALID_COUNT: 151882 
+      UDR_FORMATTED_BELIVE_VALID_COUNT: 151882 
+      UDR_RAW_BELIVE_GROSS_SALES_PRICE: 7664.39 
+      UDR_FORMATTED_BELIVE_GROSS_SALES_PRICE: 9016.93 
+      UDR_MAIN_GROSS_SALES_PRICE: 9016.93 
+      IS_NULL_TOTAL_COUNT: 3994
+          
+      Null Country Count: 
+      Null Currency Count: 
+      Null USD Rate Count: 100051	92
+100098	5
+100180	2
+100275	2
+100278	1
+100345	114
+100540	1
+100609	3
+100617	1
+100630	156
+100641	47
+100643	1
+100648	13
+100651	63
+100689	1
+100707	11
+100725	1
+100865	97
+100905	6
+100912	1
+100919	15
+100920	1
+100921	2
+100989	3
+101054	50
+101202	18
+101244	3
+101378	1
+101388	4
+101411	17
+101996	2
+102242	3088
+102415	87
+102680	25
+103518	5
+103872	1
+104104	4
+105119	11
+105427	6
+105846	33
+      Null Gross Sales Price Count: 
+      Null CP Share Percentage Count: 100051	92
+100098	5
+100180	2
+100275	2
+100278	1
+100345	114
+100540	1
+100609	3
+100617	1
+100630	156
+100641	47
+100643	1
+100648	13
+100651	63
+100689	1
+100707	11
+100725	1
+100865	97
+100905	6
+100912	1
+100919	15
+100920	1
+100921	2
+100989	3
+101054	50
+101202	18
+101244	3
+101378	1
+101388	4
+101411	17
+101996	2
+102242	3088
+102415	87
+102680	25
+103518	5
+103872	1
+104104	4
+105119	11
+105427	6
+105846	33
+      Null CP Share Provisional Count: 100051	92
+100098	5
+100180	2
+100275	2
+100278	1
+100345	114
+100540	1
+100609	3
+100617	1
+100630	156
+100641	47
+100643	1
+100648	13
+100651	63
+100689	1
+100707	11
+100725	1
+100865	97
+100905	6
+100912	1
+100919	15
+100920	1
+100921	2
+100989	3
+101054	50
+101202	18
+101244	3
+101378	1
+101388	4
+101411	17
+101996	2
+102242	3088
+102415	87
+102680	25
+103518	5
+103872	1
+104104	4
+105119	11
+105427	6
+105846	33
+UDR 6355: OK
+UDR 6356: Not OK. The values are not equal. 
+      UDR_RAW_YT_VALID_COUNT : 35315 
+      UDR_FORMATTED_YT_VALID_COUNT : 35400 
+      UDR_RAW_YT_GROSS_SALES_PRICE: 122812.83 
+      UDR_FORMATTED_YT_GROSS_SALES_PRICE: 122888.48 
+      UDR_MAIN_GROSS_SALES_PRICE: 122888.48
+      IS_NULL_TOTAL_COUNT: 33
+      Null Country Count: 
+      Null Currency Count: 
+      Null USD Rate Count: 100051	1
+100240	1
+100275	1
+100447	1
+100504	4
+100673	10
+102242	2
+103789	1
+104615	12
+      Null Gross Sales Price Count: 
+      Null CP Share Percentage Count: 100051	1
+100240	1
+100275	1
+100447	1
+100504	4
+100673	10
+102242	2
+103789	1
+104615	12
+      Null CP Share Provisional Count: 100051	1
+100240	1
+100275	1
+100447	1
+100504	4
+100673	10
+102242	2
+103789	1
+104615	12
+UDR 6357: Not OK. The values are not equal. 
+      UDR_RAW_YT_VALID_COUNT : 161567 
+      UDR_FORMATTED_YT_VALID_COUNT : 161567 
+      UDR_RAW_YT_GROSS_SALES_PRICE: 2956.71 
+      UDR_FORMATTED_YT_GROSS_SALES_PRICE: 2956.71 
+      UDR_MAIN_GROSS_SALES_PRICE: 2754.11
+      IS_NULL_TOTAL_COUNT: 50
+      Null Country Count: 
+      Null Currency Count: 
+      Null USD Rate Count: 100673	2
+102242	48
+      Null Gross Sales Price Count: 
+      Null CP Share Percentage Count: 100673	2
+102242	48
+      Null CP Share Provisional Count: 100673	2
+102242	48
+Enter UDR transaction IDs separated by spaces (e.g., 6285 6286 6287):
+UDR 6358: Not OK. The values are not equal. 
+      UDR_RAW_YT_VALID_COUNT : 175935 
+      UDR_FORMATTED_YT_VALID_COUNT : 175935 
+      UDR_RAW_YT_GROSS_SALES_PRICE: 2823.67 
+      UDR_FORMATTED_YT_GROSS_SALES_PRICE: 2823.67 
+      UDR_MAIN_GROSS_SALES_PRICE: 2823.67
+      IS_NULL_TOTAL_COUNT: 78
+      Null Country Count: 
+      Null Currency Count: 
+      Null USD Rate Count: 100673	2
+102242	76
+      Null Gross Sales Price Count: 
+      Null CP Share Percentage Count: 100673	2
+102242	76
+      Null CP Share Provisional Count: 100673	2
+102242	76
+Enter UDR transaction IDs separated by spaces (e.g., 6285 6286 6287):
+UDR 6359: Not OK. The values are not equal. 
+      UDR_RAW_YT_VALID_COUNT : 177449 
+      UDR_FORMATTED_YT_VALID_COUNT : 177449 
+      UDR_RAW_YT_GROSS_SALES_PRICE: 3935.26 
+      UDR_FORMATTED_YT_GROSS_SALES_PRICE: 3935.26 
+      UDR_MAIN_GROSS_SALES_PRICE: 3935.26
+      IS_NULL_TOTAL_COUNT: 89
+      Null Country Count: 
+      Null Currency Count: 
+      Null USD Rate Count: 100673	11
+102242	78
+      Null Gross Sales Price Count: 
+      Null CP Share Percentage Count: 100673	11
+102242	78
+      Null CP Share Provisional Count: 100673	11
+102242	78
+UDR 6360: Not OK. The values are not equal. 
+      UDR_RAW_YT_VALID_COUNT : 89176 
+      UDR_FORMATTED_YT_VALID_COUNT : 89176 
+      UDR_RAW_YT_GROSS_SALES_PRICE: 2189.92 
+      UDR_FORMATTED_YT_GROSS_SALES_PRICE: 2189.92 
+      UDR_MAIN_GROSS_SALES_PRICE: 2189.92
+      IS_NULL_TOTAL_COUNT: 36
+      Null Country Count: 
+      Null Currency Count: 
+      Null USD Rate Count: 100673	10
+102242	26
+      Null Gross Sales Price Count: 
+      Null CP Share Percentage Count: 100673	10
+102242	26
+      Null CP Share Provisional Count: 100673	10
+102242	26
+Enter UDR transaction IDs separated by spaces (e.g., 6285 6286 6287):
+UDR 6361: Not OK. The values are not equal. 
+      UDR_RAW_YT_VALID_COUNT : 73536 
+      UDR_FORMATTED_YT_VALID_COUNT : 73536 
+      UDR_RAW_YT_GROSS_SALES_PRICE: 644.40 
+      UDR_FORMATTED_YT_GROSS_SALES_PRICE: 644.40 
+      UDR_MAIN_GROSS_SALES_PRICE: 644.40
+      IS_NULL_TOTAL_COUNT: 23
+      Null Country Count: 
+      Null Currency Count: 
+      Null USD Rate Count: 100673	1
+102242	22
+      Null Gross Sales Price Count: 
+      Null CP Share Percentage Count: 100673	1
+102242	22
+      Null CP Share Provisional Count: 100673	1
+102242	22
+Enter UDR transaction IDs separated by spaces (e.g., 6285 6286 6287):
+UDR 6361: Not OK. The values are not equal. 
+      UDR_RAW_YT_VALID_COUNT : 73536 
+      UDR_FORMATTED_YT_VALID_COUNT : 73536 
+      UDR_RAW_YT_GROSS_SALES_PRICE: 644.40 
+      UDR_FORMATTED_YT_GROSS_SALES_PRICE: 644.40 
+      UDR_MAIN_GROSS_SALES_PRICE: 644.40
+      IS_NULL_TOTAL_COUNT: 23
+      Null Country Count: 
+      Null Currency Count: 
+      Null USD Rate Count: 100673	1
+102242	22
+      Null Gross Sales Price Count: 
+      Null CP Share Percentage Count: 100673	1
+102242	22
+      Null CP Share Provisional Count: 100673	1
+102242	22
+UDR 6362: OK
+Enter UDR transaction IDs separated by spaces (e.g., 6285 6286 6287):
+UDR 6363: Not OK. The values are not equal. 
+      UDR_RAW_ADA_VALID_COUNT: 150198 
+      UDR_FORMATTED_ADA_VALID_COUNT: 150198 
+      UDR_RAW_ADA_GROSS_SALES_PRICE: 25426.60 
+      UDR_FORMATTED_ADA_GROSS_SALES_PRICE: 25426.60 
+      UDR_MAIN_GROSS_SALES_PRICE: 25204.81
+      IS_NULL_TOTAL_COUNT: 0
+          
+      Null Country Count: 
+      Null Currency Count: 
+      Null USD Rate Count: 
+      Null Gross Sales Price Count: 
+      Null CP Share Percentage Count: 
+      Null CP Share Provisional Count: 
+UDR 6364: Not OK. The values are not equal. 
+      UDR_RAW_YT_VALID_COUNT : 161567 
+      UDR_FORMATTED_YT_VALID_COUNT : 161567 
+      UDR_RAW_YT_GROSS_SALES_PRICE: 2956.71 
+      UDR_FORMATTED_YT_GROSS_SALES_PRICE: 2956.71 
+      UDR_MAIN_GROSS_SALES_PRICE: 2915.29
+      IS_NULL_TOTAL_COUNT: 53
+      Null Country Count: 
+      Null Currency Count: 
+      Null USD Rate Count: 100673	2
+102242	51
+      Null Gross Sales Price Count: 
+      Null CP Share Percentage Count: 100673	2
+102242	51
+      Null CP Share Provisional Count: 100673	2
+102242	51
+UDR 6365: OK
+Enter UDR transaction IDs separated by spaces (e.g., 6285 6286 6287):
+Enter UDR transaction IDs separated by spaces (e.g., 6285 6286 6287):
+UDR 6366: Not OK
+UDR 6366: Not OK
+UDR 6367: OK
+UDR 6368: OK
+Enter UDR transaction IDs separated by spaces (e.g., 6285 6286 6287):
+UDR 6366: Not OK
+UDR 6367: OK
+UDR 6368: OK
+UDR 6369: OK
+UDR 6370: OK
+UDR 6371: OK
+Enter UDR transaction IDs separated by spaces (e.g., 6285 6286 6287):
+UDR 6372: OK
+UDR 6373: OK
+Enter UDR transaction IDs separated by spaces (e.g., 6285 6286 6287):
+UDR 6374: OK
+UDR 6375: OK
+UDR 6376: OK
+UDR 6377: OK
+Enter UDR transaction IDs separated by spaces (e.g., 6285 6286 6287):
+UDR 6380: Not OK. The values are not equal. 
+      UDR_RAW_YT_VALID_COUNT : 67340 
+      UDR_FORMATTED_YT_VALID_COUNT : 67563 
+      UDR_RAW_YT_GROSS_SALES_PRICE: 89818.16 
+      UDR_FORMATTED_YT_GROSS_SALES_PRICE: 90459.97 
+      UDR_MAIN_GROSS_SALES_PRICE: 90459.97
+      IS_NULL_TOTAL_COUNT: 0
+      Null Country Count: 
+      Null Currency Count: 
+      Null USD Rate Count: 
+      Null Gross Sales Price Count: 
+      Null CP Share Percentage Count: 
+      Null CP Share Provisional Count: 
+UDR 6381: Not OK. The values are not equal. 
+      UDR_RAW_YT_VALID_COUNT : 59543 
+      UDR_FORMATTED_YT_VALID_COUNT : 59699 
+      UDR_RAW_YT_GROSS_SALES_PRICE: 86097.24 
+      UDR_FORMATTED_YT_GROSS_SALES_PRICE: 86175.88 
+      UDR_MAIN_GROSS_SALES_PRICE: 86175.88
+      IS_NULL_TOTAL_COUNT: 0
+      Null Country Count: 
+      Null Currency Count: 
+      Null USD Rate Count: 
+      Null Gross Sales Price Count: 
+      Null CP Share Percentage Count: 
+      Null CP Share Provisional Count: 
+UDR 6382: OK
+UDR 6383: OK
+UDR 6384: OK
+UDR 6385: Not OK. The values are not equal. 
+      UDR_RAW_YT_VALID_COUNT : 60445 
+      UDR_FORMATTED_YT_VALID_COUNT : 60488 
+      UDR_RAW_YT_GROSS_SALES_PRICE: 152224.06 
+      UDR_FORMATTED_YT_GROSS_SALES_PRICE: 152227.71 
+      UDR_MAIN_GROSS_SALES_PRICE: 152227.71
+      IS_NULL_TOTAL_COUNT: 0
+      Null Country Count: 
+      Null Currency Count: 
+      Null USD Rate Count: 
+      Null Gross Sales Price Count: 
+      Null CP Share Percentage Count: 
+      Null CP Share Provisional Count: 
+UDR 6386: Not OK. The values are not equal. 
+      UDR_RAW_YT_TRANS_VALID_COUNT: 3206 
+      UDR_RAW_YT_TRANS_GROSS_SALES_PRICE: 7523.14 
+      UDR_MAIN_GROSS_SALES_PRICE: 7523.14 
+      IS_NULL_TOTAL_COUNT: 0
+          
+      Null Country Count: 
+      Null Currency Count: 
+      Null USD Rate Count: 
+      Null Gross Sales Price Count: 
+      Null CP Share Percentage Count: 
+      Null CP Share Provisional Count: 
+Enter UDR transaction IDs separated by spaces (e.g., 6285 6286 6287):
+UDR 6387: OK
+UDR 6388: OK
+UDR 6389: OK
+UDR 6390: OK
