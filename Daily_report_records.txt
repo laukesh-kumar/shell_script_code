@@ -522,3 +522,26 @@ UDR 6387: OK
 UDR 6388: OK
 UDR 6389: OK
 UDR 6390: OK
+Enter UDR transaction IDs separated by spaces (e.g., 6285 6286 6287):
+UDR 6390: OK
+UDR 6391: OK
+UDR 6392: OK
+UDR 6393: OK
+UDR 6394: OK
+UDR 6395: OK
+UDR 6396: OK
+UDR 6397: OK
+UDR 6398: OK
+Enter UDR transaction IDs separated by spaces (e.g., 6285 6286 6287):
+UDR 6399: OK
+UDR 6400: OK
+UDR 6401: OK
+UDR 6402: OK
+UDR 6403: OK
+UDR 6404: OK
+Enter UDR transaction IDs separated by spaces (e.g., 6285 6286 6287):
+UDR 6405: OK
+UDR 6405: OK
+UDR 6406: OK
+UDR 6407: OK
+UDR 6408: OK
